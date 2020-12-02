@@ -1,3 +1,4 @@
+@charset "UTF-8";
 @import url("https://fonts.googleapis.com/css?family=Poppins:500|Rubik:300,400,500&display=swap&subset=latin-ext");
 html {
   font-size: 10px;
@@ -9575,5 +9576,15 @@ body {
   font-family: "Rubik", sans-serif;
   font-weight: 300;
 }
+
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/*
+    Created on : 02-Dec-2020, 22:15:10
+    Author     : Radiša
+*/
 
 /*# sourceMappingURL=theme.css.map */
